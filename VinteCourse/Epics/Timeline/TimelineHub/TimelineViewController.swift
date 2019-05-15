@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  TimelineViewController.swift
 //  VinteCourse
 //
 //  Created by mac on 5/15/19.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class TimelineViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
